@@ -1,0 +1,21 @@
+column name;description
+dia;day of the month
+mes;month
+ano;year
+tempo;time in the experiment
+trat;treatment
+sist;aquarium system
+local;origin site
+n;colony id number
+ID;identification code
+area total;coral surface area (cm²)
+D1;area of the coral in color class D1
+D2;area of the coral in color class D2
+D3;area of the coral in color class D3
+D4;area of the coral in color class D4
+D5;area of the coral in color class D5
+D6;area of the coral in color class D6
+rosa;area of the coral that is fluorescent
+morto;area of the coral that is dead
+cor;most present color class
+dia_exp;day of experiment

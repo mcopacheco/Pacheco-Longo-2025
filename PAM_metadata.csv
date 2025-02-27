@@ -1,0 +1,13 @@
+column name;description
+dia;day in the month
+mes ;month
+ano;year
+tempo;time in the experiment
+trat;treatment
+sist;aquarium system 
+local;origin site
+n ;colony id number
+ID ;identification code
+YII;photosynthetic efficiency x1000
+YIIdec;photosynthetic efficiency 
+dia_exp;day of experiment 
